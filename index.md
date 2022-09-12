@@ -13,3 +13,8 @@ def context(arg):
 
 context(name)
 ```
+
+The Task List 
+- [ ] Learn 
+- [ ] Reserch
+- [ ] Grow
